@@ -1,7 +1,7 @@
 - Welcome to my profile!
 
-- Discord: @uh0101
+- Discord: @uh0x777
 
 - I'm a hobby programmer
-- Interests: Game Hacking/Security Vulnerabilities
+- Interests: Ethical Game Hacking/Security Vulnerabilities
   
