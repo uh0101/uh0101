@@ -1,7 +1,6 @@
 - Welcome to my profile!
 
-- Discord: @uh0x777
+- Contact me on Discord: processinternal
 
-- I'm a hobby programmer
-- Interests: Ethical Game Hacking/Security Vulnerabilities
-  
+- Hobby programmer
+- Interests: Ethical Game Hacking & Security Vulnerabilities
